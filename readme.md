@@ -1,6 +1,6 @@
 # Results summary component
 
-![preview](print.png)
+![preview](printIndex.png)
 
 [🔗 Clique aqui para acessar](https://danielsrbueno.github.io/frontendmentor-summary/)
 
